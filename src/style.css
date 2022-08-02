@@ -37,22 +37,20 @@ a {
 
 .cart {
   position: relative;
-  background-color: #fff;
-  color: #212529;
+  color: #ffffff;
   font-size: 30px;
   padding: 5px;
-  border-radius: 4px;
 }
 
 .cartAmount {
   position: absolute;
-  top: -15px;
+  top: -12px;
   right: -10px;
   font-size: 16px;
-  background-color: red;
+  background-color: rgb(253, 65, 65);
   color: white;
   padding: 3px;
-  border-radius: 3px;
+  border-radius: 50%;
 }
 
 /**
